@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://www.shutterstock.com/image-vector/black-woman-sitting-laptop-freelance-600nw-1742688515.jpg" alt="Your Image" width="300"/>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvika8&label=Profile%20views&color=0e75b6&style=flat" alt="yuvika8" /> </p>
 
 
 - ⚡ Fun fact **Code is like a Rubik's Cube—sometimes it needs a little debugging and some twists to get it right! 🧩💻🔧**
